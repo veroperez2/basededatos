@@ -1,5 +1,5 @@
 --post
-DELETE from post WHERE title like "Luz";
+DELETE from "post" WHERE title ilike 'Luz%';
 
 --user
-DELETE FROM user WHERE username like "Luz";
+DELETE FROM "user" WHERE username ilike 'Luz%';
