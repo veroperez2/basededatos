@@ -1,0 +1,2 @@
+DELETE "user" 
+                             "pasword"
