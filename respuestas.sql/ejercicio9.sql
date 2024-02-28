@@ -1,0 +1,1 @@
+--Mostrar cuál es la tercer película más alquilada.
